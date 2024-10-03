@@ -75,6 +75,7 @@ Navigate to `http://127.0.0.1:5000` in your browser to access the application.
 - **style.css**: The stylesheet that adds modern, aesthetic styling to the webpage, such as gradients and animations.
 - **app.py**: Main application logic for web scraping, sentiment analysis, and file generation.
 - **requirements.txt**: Lists all the dependencies used in this project (Flask, BeautifulSoup, aiohttp, etc.).
+- MUST RUN ON PYTHON 3.12 OR NEWER
 
 ## Contributing
 Feel free to fork the repository, create a new branch, and submit a pull request. Contributions are welcome!
