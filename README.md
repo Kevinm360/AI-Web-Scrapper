@@ -29,6 +29,36 @@
 - **VADER**: A sentiment analysis tool to evaluate customer reviews.
 - **HTML/CSS**: For structuring and styling the front-end.
 
+##Lemon Balm Products Summary:
+
+Top Products:
+- Highest-Rated Products:
+  1. Elire - Organic Lemon Balm Extract: Rating 5.0, with 24 reviews.
+  2. Lemon Balm Leaf Cut & Sifted Organic - Melissa officinalis: Rating 4.7, with 956 reviews.
+  3. Frontier Co-op Organic Cut & Sifted Lemon Balm: Rating 4.7, with 620 reviews.
+  4. Traditional Medicinals Tea, Organic Lemon Balm: Rating 4.7, with 40,007 reviews.
+  5. Lemon Balm - Melissa officinalis Dried Loose Leaf: Rating 4.7, with 294 reviews.
+
+- Most Reviewed Products:
+  1. Traditional Medicinals Tea, Organic Lemon Balm: 40,007 reviews with a rating of 4.7.
+  2. Lemon Balm (Herbal Tea): 20,000 reviews with a rating of 4.6.
+  3. HANDPICK, Lemon Balm Tea Bags (100 Herbal Tea Bags): 10,644 reviews with a rating of 4.4.
+
+Sentiment and Price Insights:
+- The correlation between price and sentiment score is -0.03, indicating a very weak negative relationship between price and sentiment. Higher price doesn't necessarily mean better sentiment.
+
+Common Descriptive Keywords:
+- The most frequent positive words used to describe these lemon balm products are:
+  - Taste (mentioned 12 times)
+  - Good (mentioned 11 times)
+  - Sleep (mentioned 6 times)
+  - Quality (mentioned 3 times)
+  - Anxiety (mentioned 3 times)
+
+Summary:
+Overall, lemon balm products are highly rated and reviewed, especially for their taste, quality, and positive effects on sleep and anxiety. Products like Traditional Medicinals Tea stand out with an overwhelming number of positive reviews. These products appear to be well-regarded for both their flavor and calming effects.
+"""
+
 ## Installation
 ### 1. Clone the Repository
 ```bash
