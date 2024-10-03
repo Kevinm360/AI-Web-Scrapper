@@ -29,7 +29,7 @@
 - **VADER**: A sentiment analysis tool to evaluate customer reviews.
 - **HTML/CSS**: For structuring and styling the front-end.
 
-##Lemon Balm Products Summary:
+## Lemon Balm Products Summary:
 
 Top Products:
 - Highest-Rated Products:
