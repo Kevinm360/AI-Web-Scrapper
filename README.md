@@ -58,9 +58,9 @@ python app.py
 Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) to access the app. (The app will open a new browser automatically)
 
 ## Usage
-1. **Enter URL**: Provide an Amazon, iHerb, or WebMD product URL in the input field on the main page.
-2. **Scrape Data**: Click “Scrape Website” to start scraping and analyzing the data.
-3. **Download CSV**: After processing, download a CSV file with product data, sentiment scores, and summaries.
+1. **Enter URL**: Provide an Amazon, iHerb, or WebMD product URL in the input field on the main page. (url.png)
+3. **Scrape Data**: Click “Scrape Website” to start scraping and analyzing the data.
+4. **Download CSV**: After processing, download a CSV file with product data, sentiment scores, and summaries.
 
 ## Example Insights for Lemon Balm Products
 
