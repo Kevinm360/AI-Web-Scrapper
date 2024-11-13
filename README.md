@@ -60,16 +60,16 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) to access the app. (The app
 ## Usage
 1. **Enter URL**: Provide an Amazon, iHerb, or WebMD product URL in the input field on the main page. ![urlScreenshot](url.png)
 3. **Scrape Data**: Click “Scrape Website” to start scraping and analyzing the data.
-4. **Download CSV**: After processing, download a CSV file with product data, sentiment scores, and summaries.
+4. **Download CSV**: After processing, download a CSV file with product data, sentiment scores, and summaries. ![csvScreenshot](csv.png)
 
 ## Example Insights for Lemon Balm Products
 
 ### Top Products
 
 - **Amazon**:
-    1. **Traditional Medicinals Organic Lemon Balm Herbal Tea**: $5.99, Rating 4.6, with 39,273 reviews (Positive sentiment, score: 0.568).
-    2. **Traditional Medicinals Organic Lemon Balm Herbal Tea** (duplicate entry for another product listing): $5.99, Rating 4.6, with 39,273 reviews (Positive sentiment, score: 0.568).
-    3. **Traditional Medicinals Organic Lemon Balm Herbal Tea** (another variant): $5.99, Rating 4.6, with 39,273 reviews (Positive sentiment, score: 0.568).
+    1. **Traditional Medicinals**: $5.99, Rating 4.6, with 39,319 reviews (Positive sentiment, score: 0.568).
+    2. **Luna Kids Sleep Aid Tablets for Children 4+ - Herbal Supplement**: $24.95, Rating 3.9, with 19,519 reviews (Highly Positive sentiment, score: 0.714).
+    3. **Lemon Balm (Herbal Tea): (Melissa Officinalis)**: $22.99, Rating 4.6, with 17,665 reviews (Highly Positive sentiment, score: 0.708).
 
 - **iHerb**:
     1. **Yogi Tea, Stress Relief, Honey Lavender, Caffeine-Free**: $4.48, Rating 4.6, with 29,557 reviews (Highly Positive sentiment, score: 0.935).
